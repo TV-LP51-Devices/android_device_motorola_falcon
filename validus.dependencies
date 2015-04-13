@@ -15,9 +15,9 @@
 "branch": "cm-12.1"
 },
 {
-"repository": "TheLoonyBin/proprietary_vendor_motorola",
+"repository": "TheMuppets/proprietary_vendor_motorola",
 "target_path": "vendor/motorola",
-"branch": "lp5.0"
+"branch": "cm-12.1"
 },
 {
 "repository": "Cyanogenmod/android_hardware_qcom_fm",
