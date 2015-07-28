@@ -10,7 +10,7 @@
 "branch": "lp5.1"
 },
 {
-"repository": "CyanogenMod/android_kernel_motorola_msm8226",
+"repository": "CyanX/android_kernel_motorola_msm8226",
 "target_path": "kernel/motorola/msm8226",
 "branch": "cm-12.1"
 },
