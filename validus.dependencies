@@ -5,9 +5,9 @@
 "branch": "cm-12.1"
 },
 {
-"repository": "TV-LP51-Devices/android_device_motorola_msm8226-common",
+"repository": "CyanogenMod/android_device_motorola_msm8226-common",
 "target_path": "device/motorola/msm8226-common",
-"branch": "lp5.1"
+"branch": "cm-12.1"
 },
 {
 "repository": "CyanX/android_kernel_motorola_msm8226",
